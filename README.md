@@ -10,5 +10,4 @@ cvpr 2019:
 
 3, Mask Scoring R-CNN
     https://arxiv.org/abs/1903.00241
-    
     code: https://github.com/zjhuang22/maskscoring_rcnn
