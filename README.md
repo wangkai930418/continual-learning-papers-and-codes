@@ -17,6 +17,8 @@ cvpr 2019:
     
 5, MUREL: Multimodal Relational Reasoning for Visual Question Answering
     https://arxiv.org/abs/1902.09487
+    code:https://github.com/Cadene/murel.bootstrap.pytorch
+    zhihu:https://zhuanlan.zhihu.com/p/60972299
     
 6, MFAS: Multimodal Fusion Architecture Search
     https://arxiv.org/abs/1903.06496
