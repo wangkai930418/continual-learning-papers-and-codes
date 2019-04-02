@@ -22,3 +22,7 @@ cvpr 2019:
     
 6, MFAS: Multimodal Fusion Architecture Search
     https://arxiv.org/abs/1903.06496
+    
+7, Learning to Compose Dynamic Tree Structures for Visual Contexts
+    https://arxiv.org/abs/1812.01880
+    code:https://github.com/KaihuaTang/VCTree-Visual-Question-Answering
