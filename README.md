@@ -26,3 +26,7 @@ cvpr 2019:
 7, Learning to Compose Dynamic Tree Structures for Visual Contexts
     https://arxiv.org/abs/1812.01880
     code:https://github.com/KaihuaTang/VCTree-Visual-Question-Answering
+    
+8, Hardness-Aware Deep Metric Learning
+    https://arxiv.org/abs/1903.05503
+    code:https://github.com/wzzheng/HDML
