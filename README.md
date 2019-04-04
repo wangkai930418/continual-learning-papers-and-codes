@@ -1,4 +1,4 @@
-# continual-learning-papers-and-codes
+# continual learning, multimodal, metric learning --- papers and codes
 
 cvpr 2019:
 
